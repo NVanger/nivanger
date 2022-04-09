@@ -1,1 +1,1 @@
-# nivanger
+# nivanger - учебный репозиторий
