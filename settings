@@ -1,3 +1,5 @@
+В файл json
+
 {
     "workbench.colorTheme": "Default Dark+",
     "workbench.startupEditor": "none",
@@ -23,3 +25,12 @@
         "strings": "off"
     }
 }
+
+
+Плагины
+All Autocomplete
+Auto Close Tag
+Auto Rename Tag
+Beautify
+Live Server
+vscode-icons
