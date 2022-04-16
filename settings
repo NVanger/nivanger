@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "editor.hover.enabled": false,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "vscode-icons",
+    "json.schemas": [],
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "explorer.confirmDelete": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.quickSuggestions": {
+    
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    }
+}
